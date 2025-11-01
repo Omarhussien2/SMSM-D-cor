@@ -1,3 +1,4 @@
+name = "smsmdecore"
+
 [assets]
 directory = "./dist"
-
