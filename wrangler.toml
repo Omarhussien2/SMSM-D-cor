@@ -1,9 +1,1 @@
-name = "smsmdecore"
-main = "src/index.ts"            # إذا البداية في ملف آخر، عدّل هذا السطر
-compatibility_date = "2025-11-01"
 
-[site]
-bucket = "./dist"
-
-[env.production]
-# GEMINI_API_KEY سيتم إضافته من Cloudflare بعد النشر
